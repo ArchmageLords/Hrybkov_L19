@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hrybkov_L19</string>
+    <string name="name_year">%s \n(%s)</string>
+    <string name="film_icon">Film icon</string>
+    <string name="rate">Rate: %.2f</string>
+    <string name="country">Country: %s</string>
+    <string name="transition_image">transition_image</string>
+    <string name="transition_name">transition_name</string>
+    <string name="shawshank_redemption">Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</string>
+    <string name="dark_knight">When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.</string>
+    <string name="schindlers_list">In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.</string>
+</resources>
